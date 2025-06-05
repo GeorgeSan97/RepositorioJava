@@ -1,18 +1,11 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package pruebagithub;
 
-/**
- *
- * @author Jorge
+/* 
+    Realizado por: Jorge Sánchez 
  */
 public class PruebaGitHub {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         // TODO code application logic here
         int num1 = 2;
@@ -23,6 +16,17 @@ public class PruebaGitHub {
         System.out.println("Los números ingresados son: " + num1 + " y " + num2);
         System.out.println("La suma es: "+suma);
         System.out.println("Me encuentro actualizando el código");
+        System.out.println("Limpiando mi código ");
+        System.out.println("Programa terminado");
     }
     
 }
+
+
+/*
+    git status
+    git add .
+    git status
+    git commit -m "Actualización de código"
+    git push origin master
+*/
