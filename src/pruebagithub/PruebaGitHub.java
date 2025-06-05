@@ -6,7 +6,7 @@ package pruebagithub;
 
 /**
  *
- * @author Asus
+ * @author Jorge
  */
 public class PruebaGitHub {
 
@@ -22,6 +22,7 @@ public class PruebaGitHub {
         
         System.out.println("Los números ingresados son: " + num1 + " y " + num2);
         System.out.println("La suma es: "+suma);
+        System.out.println("Me encuentro actualizando el código");
     }
     
 }
