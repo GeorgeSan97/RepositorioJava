@@ -25,6 +25,10 @@ public class PruebaGitHub {
 
 
 /*
+IMPORTANTE: Para que GitHub reconozca los cambios 
+            que hice en el código primero debo guardar 
+            los cambios en el NetBenas
+
     git status
     git add .
     git status
