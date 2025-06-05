@@ -18,6 +18,7 @@ public class PruebaGitHub {
         System.out.println("Me encuentro actualizando el código");
         System.out.println("Limpiando mi código ");
         System.out.println("Programa terminado");
+        System.out.println("Última modificación");
     }
     
 }
@@ -27,6 +28,6 @@ public class PruebaGitHub {
     git status
     git add .
     git status
-    git commit -m "Actualización de código"
+    git commit -m "Última modificación"
     git push origin master
 */
